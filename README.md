@@ -37,5 +37,10 @@ Welcome to **Nothing Landing-Page**, my **responsive landing page** project. Itâ
 Follow these steps to get the project running locally:
 
 **Clone the repository:**
-```bashit
-git clone https://github.com/DSemeniukV/Landing-page.git
+  ```git clone https://github.com/DSemeniukV/Landing-page.git```
+
+**Install dependencies:**
+  ```npm install```
+
+**Run the project locally:**
+  ```npm start```
